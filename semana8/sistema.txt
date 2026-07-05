@@ -1,0 +1,4 @@
+- El comando 'uname -a' muestra la información completa del sistema operativo, el tipo de procesador, el nombre de la máquina y la versión del núcleo (kernel) de Linux.
+- El comando 'whoami' muestra el nombre del usuario actual que está utilizando la terminal.
+
+Es útil conocer esta información al administrar un servidor porque permite saber si el sistema está actualizado, verificar la compatibilidad de los programas que se van a instalar y asegurar qué nivel de permisos tiene el usuario con el que estamos trabajando para evitar errores de seguridad.
